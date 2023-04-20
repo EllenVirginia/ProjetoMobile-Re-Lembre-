@@ -16,6 +16,5 @@ determinado produto sem um conhecimento previo.
 
 # Autor
 
-
-Ellen Virginia Albuquerque da Silva
-Iago Vitor Germano Albuquerque da Silva
+-Ellen Virginia Albuquerque da Silva
+-Iago Vitor Germano Albuquerque da Silva
