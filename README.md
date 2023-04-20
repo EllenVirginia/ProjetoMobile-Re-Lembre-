@@ -6,10 +6,6 @@
 O projeto visa ajudar o usuario a lembrar de comprar certos produtos quando estes estão proximos de acabar, evitando que a pessoa fique sem 
 determinado produto sem um conhecimento previo.
 
-## Layout 
-
-
-
 # Tecnologias utilizadas
 
 ## Front end
@@ -17,28 +13,6 @@ determinado produto sem um conhecimento previo.
 - ReactJS
 - React Native
 - Expo
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# executar o projeto
-yarn start
-```
 
 # Autor
 
