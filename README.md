@@ -15,7 +15,7 @@ determinado produto sem um conhecimento previo.
 
 ## Instuções
 
-Depois de baixar a pasta, mova o arquivo 'Segunda Tela' e 'Primeira Tela' para outra pasta fora do projeto para que o projeto possa rodar normalmente, uma vez que a esses arquivos servem apenas como uma cola do codigo de ambas as telas do aplicativo, onde você copia e cola no arquivo app,js quando quiser testar quaquer uma das telas.
+Depois de baixar a pasta, mova o arquivo 'Segunda Tela' e 'Primeira Tela' para outra pasta fora do projeto para que o projeto possa rodar normalmente, uma vez que a esses arquivos servem apenas como uma cola do codigo de ambas as telas do aplicativo, onde você copia e cola no arquivo app.js quando quiser testar quaquer uma das telas.
 
 # Autor
 
