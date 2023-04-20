@@ -13,7 +13,11 @@ determinado produto sem um conhecimento previo.
 - React Native
 - Expo
 
+##Instuções
+
+Depois de baixar a pasta, retire o arquivo 'segunda Tela' para que o projeto possa rodar normalmente, uma vez que a esse arquivo serve apenas como uma cola do codigo da segunda tela do aplicativo, onde você copia e cola no app quando quiser testar ela.
+
 # Autor
 
--Ellen Virginia Albuquerque da Silva
+-Ellen Virginia Albuquerque da Silva          
 -Iago Vitor Germano Albuquerque da Silva
